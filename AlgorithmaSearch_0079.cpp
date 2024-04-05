@@ -52,4 +52,7 @@ void LinearSearch ()
                 break;
             }
             i++;
+        }
+
+        if (i == n)
 }
