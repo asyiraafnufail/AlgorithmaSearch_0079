@@ -32,7 +32,7 @@ void input ()
 void LinearSearch ()
 {
     char ch;
-    int tr;
+    int ctr;
     int item;
 
     do
